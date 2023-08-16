@@ -13,7 +13,7 @@ Nice to meet you, I'm Shubham Kumar Prajapati aka skp544
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skp544&theme=react)](https://github.com/skp544/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skp544&theme=react)
 
 <br>
 
