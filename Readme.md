@@ -51,10 +51,10 @@ Nice to meet you, I'm Shubham Kumar Prajapati aka skp544
 
 <p align="center">
 
-<a href="https://www.instagram.com/shubhamkumarprajapati544" target="_blank">
+<a href="https://www.instagram.com/shubhamkumarprajapati544" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>
 
-<a href="https://www.linkedin.com/in/shubham-kumar-prajapati/" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-kumar-prajapati/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 </p>
